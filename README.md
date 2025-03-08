@@ -59,7 +59,7 @@ Height and weight distribution vary significantly across sports.
 
 # 📎 **Project Link**
 
-Olympic Games Data Analysis: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3114205788572517/3663972212484632/5360960941988205/latest.html
+Olympic Games Data Analysis: [Project link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3114205788572517/3663972212484632/5360960941988205/latest.html)
 
 # 🏆 **Conclusion**
 
